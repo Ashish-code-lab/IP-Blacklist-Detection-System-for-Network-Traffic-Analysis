@@ -47,7 +47,7 @@ ip_blacklist_project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ip-blacklist-detection.git
+git clone https://github.com/Ashish-code-lab/ip-blacklist-detection.git
 cd ip-blacklist-detection
 ```
 
